@@ -17,9 +17,7 @@
   </h1>
 </div>
 
----
-
-### :man_technologist: About Me :
+:man_technologist: About Me :
 
 I’m Kyle, I am a student at MxCC CT.
 - I’m interested in Hyper-Heuristics, Robotics :robot:, Artificial Narrow Intelligence (ANI), Multi-Axis Kinematic Synthesis, and fpga
