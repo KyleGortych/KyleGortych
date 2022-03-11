@@ -65,7 +65,7 @@ design
 
 READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/" target="_blank">Nida Khan</a>
 - Currently reading <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf" target="_blank">FPGA and TensorFlow Design</a>
-- Blank
+- [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 <!---
 KyleGortych/KyleGortych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
