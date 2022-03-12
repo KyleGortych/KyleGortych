@@ -39,7 +39,9 @@ design
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" title="FreeCad" alt="FreeCad" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="KiCad" alt="KiCad" width="80" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
@@ -57,10 +59,16 @@ design
 
 ### :writing_hand: Blog Posts :
 
-READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
+Blank git page
 
-- Currently reading <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf">FPGA and TensorFlow Design</a>
+---
+
+### :book: Currently Reading :
+
+- <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf">FPGA and TensorFlow Design</a>
 - Blank
+
+READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
 
 <!---
 KyleGortych/KyleGortych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
