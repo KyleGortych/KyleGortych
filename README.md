@@ -18,7 +18,7 @@ I’m Kyle, I am a student at MxCC CT.
 design
 - I’m currently learning Python, Java, Rust, and verilog(HDL) for fpga
 - I’m looking to collaborate on ...
-- How to reach me :mailbox:
+- How to reach me <a href="your-gmail-link?">:mailbox:</a>
 
 ---
 
@@ -61,14 +61,14 @@ design
 
 ### :writing_hand: Blog Posts :
 
-Blank git page
+- <a href="your-gitpage-url">Blank git page</a>
 
 ---
 
 ### :book: Currently Reading :
 
 - <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf">FPGA and TensorFlow Design</a>
-- Blank
+- <a href="your-research-url">Blank research link</a>
 
 READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
 
