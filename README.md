@@ -69,7 +69,7 @@ design
 
 - <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf">FPGA and TensorFlow Design</a>
 - <a href="https://formal.kastel.kit.edu/~beckert/teaching/Spezifikation-SS04/11Z.pdf">The Z Specification Language</a>
-- <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Graph-Homomorphisms.pdf#page=20">Semilattice Polymorphisms</a>
+- <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Graph-Homomorphisms.pdf#Semilattice Polymorphisms">Semilattice Polymorphisms</a>
 - <a href="your-research-url">Blank research link</a>
 
 READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
