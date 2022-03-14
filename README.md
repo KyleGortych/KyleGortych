@@ -73,7 +73,7 @@ design
 - <a href="https://cyberleninka.org/article/n/1097585.pdf#page=4">Example Weighted Decision Matrix</a>
 - <a href="your-research-url">Blank research link</a>
 
-READ.ME inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
+README inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
 
 <!---
 KyleGortych/KyleGortych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
