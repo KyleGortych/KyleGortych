@@ -59,19 +59,9 @@ design
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts & Gitpages:
 
-- <a href="your-gitpage-url">Blank git page</a>
-
----
-
-### :book: Currently Reading :
-
-- <a href="https://cs.stanford.edu/people/shadjis/IEEE_FPL2019_Hadjis.pdf">FPGA and TensorFlow Design</a>
-- <a href="https://formal.kastel.kit.edu/~beckert/teaching/Spezifikation-SS04/11Z.pdf">The Z Specification Language</a>
-- <a href="https://wwwpub.zih.tu-dresden.de/~bodirsky/Graph-Homomorphisms.pdf#page=20">Semilattice Polymorphisms</a>
-- <a href="https://cyberleninka.org/article/n/1097585.pdf#page=4">Example Weighted Decision Matrix</a>
-- <a href="your-research-url">Blank research link</a>
+- <a href="https://kylegortych.github.io/">My main site</a>
 
 README inspired by the talented <a href="https://www.sitepoint.com/github-profile-readme/">Nida Khan</a>
 
