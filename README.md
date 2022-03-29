@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/KyleGortych/KyleGortych/main/githubprofile.gif">
   <div id="badges">
     <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
     </a>
   </div>
   <h1>
