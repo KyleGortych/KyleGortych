@@ -41,6 +41,7 @@ I’m Kyle, I am a student at MxCC CT.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.icons101.com/icons/96/Simple_Dock_Apps_Icons_by_Turhothgor/128/Libre-Office.png" title="Libreoffice" alt="Libreoffice" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg" title="FreeCad" alt="FreeCad" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="KiCad" alt="KiCad" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" **alt="Git" width="40" height="40"/>
