@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/KyleGortych/KyleGortych/main/githubprofile.gif">
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/kyle-gortych-163449240/">
       <img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue" height="20" alt="LinkedIn Badge"/>
     </a>
   </div>
