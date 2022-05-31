@@ -32,7 +32,7 @@ I’m Kyle, I am a student at MxCC CT.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/d572f1e0657be30cd6676863f5d88266eef9c1df332338d00e4fd0e7165f1946/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f32382f3630312f706e672d7472616e73706172656e742d73716c2d6c6f676f2d696c6c757374726174696f6e2d6d6963726f736f66742d617a7572652d73716c2d64617461626173652d6d6963726f736f66742d73716c2d7365727665722d64617461626173652d626c75652d746578742d6c6f676f2d7468756d626e61696c2e706e67" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
 </div>
 <div>
