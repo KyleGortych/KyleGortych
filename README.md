@@ -7,7 +7,7 @@
   </div>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="5%"/>
   </h1>
 </div>
 
