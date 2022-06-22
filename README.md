@@ -4,6 +4,14 @@
     <a href="https://www.linkedin.com/in/kyle-gortych-163449240/">
       <img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue" height="20" alt="LinkedIn Badge"/>
     </a>
+    <div>
+      <a href="https://github.com/KyleGortych/dotfiles">
+        <img src="https://img.shields.io/badge/-dotfiles-white" height="20" alt="dotfiles repo"/>
+      </a>
+       <a href="https://github.com/KyleGortych/sample_work">
+        <img src="https://img.shields.io/badge/-Sample%20Work-white" height="20" alt="work examples repo"/>
+      </a>
+    </div>
   </div>
   <h1>
   hey there
