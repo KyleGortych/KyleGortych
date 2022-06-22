@@ -6,10 +6,10 @@
     </a>
     <div>
       <a href="https://github.com/KyleGortych/dotfiles">
-        <img src="https://img.shields.io/badge/-dotfiles-white" height="20" alt="dotfiles repo"/>
+        <img src="https://img.shields.io/badge/-dotfiles-white?style=plastic&logo=git" height="20" alt="dotfiles repo"/>
       </a>
        <a href="https://github.com/KyleGortych/sample_work">
-        <img src="https://img.shields.io/badge/-Sample%20Work-white" height="20" alt="work examples repo"/>
+        <img src="https://img.shields.io/badge/-Sample%20Work-white?style=plastic&logo=git" height="20" alt="work examples repo"/>
       </a>
     </div>
   </div>
