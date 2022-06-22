@@ -29,10 +29,10 @@ I’m Kyle, I am a student at MxCC CT.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://cms-assets.tutsplus.com/legacy-courses/CRS-58300.png" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/dompicon-flat-file-format/256/file-sql-format-type-512.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
