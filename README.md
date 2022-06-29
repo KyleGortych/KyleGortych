@@ -1,9 +1,14 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/KyleGortych/KyleGortych/main/githubprofile.gif">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/kyle-gortych-163449240/">
-      <img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue" height="20" alt="LinkedIn Badge"/>
-    </a>
+    <div>
+      <a href="https://www.linkedin.com/in/kyle-gortych-163449240/">
+        <img src="https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue" height="20" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://gitlab.com/KyleGortych">
+        <img src="https://img.shields.io/badge/gitlab-white?style=plastic&logo=gitlab&logoColor=black" height="20" alt="Gitlab Badge"/>
+      </a>
+    </div>
     <div>
       <a href="https://github.com/KyleGortych/dotfiles">
         <img src="https://img.shields.io/badge/-dotfiles-white?style=plastic&logo=git" height="20" alt="dotfiles repo"/>
