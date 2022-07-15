@@ -20,7 +20,9 @@
   </div>
   <h1>
   hey there
-  <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="5%"/>
+  <div>
+  <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="20%"/>
+  </div>
   </h1>
 </div>
 
